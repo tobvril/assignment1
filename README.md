@@ -93,5 +93,5 @@ Stored in an array bookings, with each entry containing guest information, trip 
  https://github.com/othneildrew/Best-README-Template 
 
  **GitHub formatting**
- 
- https://github.com/othneildrew/Best-README-Template
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#supported-color-models
