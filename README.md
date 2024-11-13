@@ -61,7 +61,7 @@ Parameters: carId (number): ID of the car.
 
 Description: Sets the specified car’s status to unavailable. If code is deleted, it will revert back to the original status.
 
-Example: bookingSystem.markCarAsUnavailable(2);
+Example: trip.markCarAsUnavailable(2);
 
 
 <ins>6. Mark a Car as Available</ins>
@@ -72,20 +72,7 @@ Description: Sets the specified car’s status to available. If code is deleted,
 
 
 Example: trip.markCarAsAvailable(1);
-### Data Structure
-<ins>Cars:</ins>
-let cars = [
-  { id: 1, model: "big car", available: false },
-  { id: 2, model: "big big car", available: true }
-];
-<ins>Packages:</ins>
-let packages = [
-  { id: 1, name: "city tour", price: 100, description: "Explore the city in a day", availableSeats: 10 },
-  { id: 2, name: "mountain seeing", price: 200, description: "A day in the mountains with scenic views", availableSeats: 5 }
-];
 
-<ins>Bookings</ins>:
-Stored in an array bookings, with each entry containing guest information, trip details, and status.
 
 # References
  **1. how to create a good readme file**
