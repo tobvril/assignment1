@@ -19,7 +19,6 @@ Update Car Status: View cars as available or unavailable.
 
 ### Usage
 <ins>1. Register a Guest for a Trip</ins>
-code: trip.registerTripGuest(name, contact, tripDate, carId, packageId);
 
 Parameters:
 name (string): Guest's name.
