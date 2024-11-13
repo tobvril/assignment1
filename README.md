@@ -89,7 +89,9 @@ Stored in an array bookings, with each entry containing guest information, trip 
 
 # References
  **1. how to create a good readme file**
+
  https://github.com/othneildrew/Best-README-Template 
 
  **GitHub formatting**
+ 
  https://github.com/othneildrew/Best-README-Template
